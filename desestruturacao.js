@@ -21,3 +21,4 @@ let pessoa = {
 //se ele não existir devolve indefinido
 let {nome, altura, peso} = pessoa
 console.log(altura)
+//comentario
